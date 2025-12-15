@@ -61,5 +61,5 @@ The application provides the following options upon startup:
 
 **Hannah George** - *Computer Science Major*
 
-* **GitHub:** [[Link to your GitHub Profile](https://github.com/haneligeo99)]
-* **LinkedIn:** [[Link to your LinkedIn Profile](www.linkedin.com/in/hannah-george-775a17188/)]
+* **GitHub:** [[My GitHub Profile](https://github.com/haneligeo99)]
+* **LinkedIn:** [[My LinkedIn Profile](www.linkedin.com/in/hannah-george-775a17188/)]
