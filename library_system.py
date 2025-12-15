@@ -1,7 +1,5 @@
 import pickle
 import os 
-# We don't strictly need 'os' if we don't clear the console, but it's good practice
-# and we'll keep it for utility.
 
 # --- BOOK CLASS ---
 class Book:
